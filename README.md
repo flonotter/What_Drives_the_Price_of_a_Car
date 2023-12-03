@@ -68,4 +68,6 @@ Fuel Type: The fuel type also influences the price, though the extent of this in
 
 Transmission: The type of transmission appears to have an impact on price. For instance, automatic transmission vehicles might be priced differently compared to manual ones.
 
+In conclusion, while the data shows some fluctuation in the average prices of luxury cars over the years, it does not provide a clear or consistent indication that older luxury cars become more expensive over time compared to new ones. Factors like car model, condition, mileage, and market demand play significant roles in determining the price of a luxury car.
+
 ---
